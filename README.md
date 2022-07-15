@@ -1,2 +1,2 @@
-# CounterWithCondition
+# Counter
 Created with CodeSandbox
